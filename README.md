@@ -13,16 +13,10 @@ Create an interactive dashboard showing sales by product, region & month.
 - Donut chart: Sales by category
 - Region slicer for interactivity
 
-## Key Insights
-1. West region led with ~30% sales.
-2. Technology category dominates sales.
-3. Sales increased consistently through the year.
-4. Central region lagged in Q2.
-
 ## How to View
 1. Clone the repo.
 2. Open `Sales_Dashboard.pbix` in Power BI.
 3. Enjoy the interactivity!
 
 ## Authored by
-*Your Name*
+G. Chandra Sekhar Reddy
